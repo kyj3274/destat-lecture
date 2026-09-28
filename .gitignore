@@ -32,6 +32,10 @@
 
 .vscode
 
-.AGENTS.md
+AGENTS.md
 
-.CLAUDE.md
+CLAUDE.md
+
+.agents
+
+.claude
